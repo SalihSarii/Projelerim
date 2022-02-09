@@ -1,0 +1,126 @@
+-- Kullanıcı: salih Sifre:saritep ile Tarih: 1/28/2022 7:53:05 PM Hatalı deneme sayısı:1 hatalı bir giriş yaptı
+
+-- Kullanıcı: salih Sifre:saritep ile Tarih: 1/28/2022 7:53:21 PM Hatalı deneme sayısı:2 hatalı bir giriş yaptı
+
+-- Kullanıcı: salih Sifre:saritep ile Tarih: 1/28/2022 7:53:31 PM Hatalı deneme sayısı:3 hatalı bir giriş yaptı
+
+
+-- Kullanıcı: Tarih:1/28/2022 7:54:24 PM Güvenlik Kodu 1 kere yanlış girildi.
+
+-- Kullanıcı: Tarih:1/28/2022 7:54:26 PM Güvenlik Kodu 2 kere yanlış girildi.
+
+-- Kullanıcı: Tarih:1/28/2022 7:54:26 PM Güvenlik Kodu 3 kere yanlış girildi. Program Kilitlendi.
+
+
+++ Kullanıcı: amir Tarih: 1/28/2022 7:55:02 PM başarılı bir giriş yaptı
+
+++ Üye Başarıyla Eklendi - Tarih:1/28/2022 7:56:01 PM Üye Adı:Hasan Üye TC:25681266887
+
++/ Üye Bilgileri Başarıyla Güncellendi - Tarih:1/28/2022 7:56:17 PMÜye Adı:Hasan Üye TC:25681266886
+
++- Üye Başarıyla Silindi - Tarih:1/28/2022 7:56:23 PMÜye Ad:Hasan Üye TC:25681266886
+
+++ Kitap Başarıyla Eklendi - Tarih:1/28/2022 7:57:38 PM Kitap ID:5628286 Kitap Adı:Deniz Kurdu
+
++/ Kitap Bilgileri Başarıyla Güncellendi - Tarih:1/28/2022 7:57:48 PMKitap ID:5628286 Kitap Ad:Deniz Kurdu
+
++- Kitap Başarıyla Silindi - Tarih:1/28/2022 7:57:55 PMKitap ID:5628286 Kitap Ad:Deniz Kurdu
+
+++ Kitap Başarılı Şekilde Emanet Verildi - Tarih:1/28/2022 8:21:09 PM Üye TC:41341234235 Kitap ID:7569841
+
+++ Kitap Başarılı Şekilde Emanet Verildi - Tarih:1/28/2022 8:21:15 PM Üye TC:13413432524 Kitap ID:7569841
+
+++ Kitap Başarılı Şekilde Alındı- Zamanında İade Edildi - Tarih:1/28/2022 8:21:25 PM Üye TC:41341234235 Kitap ID:7569841
+
+++ Kitap Başarılı Şekilde Alındı- Geç İade Edildi - Tarih:1/28/2022 8:21:32 PM Üye TC:13413432524 Kitap ID:7569841
+
+++ Kullanıcı Başarıyla Eklendi - Tarih:1/28/2022 8:00:06 PM Kullanıcı Adı:Ahmet Kullanıcı Soyadı:Girgin
+
+++ Kullanıcı Başarıyla Güncellendi - Tarih:1/28/2022 8:04:26 PM Kullanıcı Adı:Ahme Kullanıcı Soyadı:Girgin
+
++- Kullanıcı Başarıyla Silindi - Tarih:1/28/2022 8:05:00 PM Kullanıcı Ad:Ahme Üye TC:Girgin
+
+
+
+@Hata Tarih:1/28/2022 10:04:26 PM Hata Türü:Index was outside the bounds of the array. Hata Dizini:   at Kütüphane_Otomasyonu.Giris.btnGiris_Click(Object sender, EventArgs e) in C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\Giris.cs:line 80
+
+
+@Hata Tarih:1/28/2022 10:06:30 PM Hata Türü:Index was outside the bounds of the array.Hata Dizini:   at Kütüphane_Otomasyonu.UyeIslemleri.btnKaydet_Click(Object sender, EventArgs e) in C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\UyeIslemleri.cs:line 37
+
+@Hata Tarih:1/28/2022 10:07:26 PM Hata Türü:Index was outside the bounds of the array. Hata Dizini:   at Kütüphane_Otomasyonu.KitapIslemleri.btnEkle_Click(Object sender, EventArgs e) in C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\KitapIslemleri.cs:line 47
+
+@Hata Tarih:1/28/2022 10:08:17 PM Hata Türü:Index was outside the bounds of the array.Hata Dizini:   at Kütüphane_Otomasyonu.EmanetIslemleri.btnKayit_Click(Object sender, EventArgs e) in C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\EmanetIslemleri.cs:line 86
+
+@Hata Tarih:1/28/2022 10:11:52 PM Hata Türü:Index was outside the bounds of the array. Hata Dizini:   at Kütüphane_Otomasyonu.TurDuzenleme.btnEkle_Click(Object sender, EventArgs e) in C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\TurDuzenleme.cs:line 35
+
+Program Kapatıldı Tarih: 1/28/2022 10:17:06 PM
+-----------------------------------------------------------------------------------
+
+
+************
+************
+************
+
+
+
+
+
+Program Kapatıldı Tarih: 1/28/2022 11:56:54 PM
+-----------------------------------------------------------------------------------
+
+-- Kullanıcı:amir Tarih:1/29/2022 12:07:26 AM Güvenlik Kodu 1 kere yanlış girildi.
+
+-- Kullanıcı:amir Tarih:1/29/2022 12:07:34 AM Güvenlik Kodu 2 kere yanlış girildi.
+
+-- Kullanıcı: amir Sifre:abbas ile Tarih: 1/29/2022 12:07:43 AM Hatalı deneme sayısı:1 hatalı bir giriş yaptı
+
+-- Kullanıcı: amir Sifre:abbas ile Tarih: 1/29/2022 12:07:55 AM Hatalı deneme sayısı:2 hatalı bir giriş yaptı
+
+Program Kapatıldı Tarih: 1/29/2022 12:09:39 AM
+-----------------------------------------------------------------------------------
+
+Program Kapatıldı Tarih: 1/29/2022 12:11:38 AM
+-----------------------------------------------------------------------------------
+
++/ Üye Bilgileri Başarıyla Güncellendi - Tarih:1/29/2022 12:19:29 AMÜye Adı:Can Üye TC:52425245245
+
++/ Kitap Bilgileri Başarıyla Güncellendi - Tarih:1/29/2022 12:20:05 AMKitap ID:1673498 Kitap Ad:Zamanın Kısa Tarihi
+
+++ Kitap Başarılı Şekilde Emanet Verildi - Tarih:1/29/2022 12:20:48 AM Üye TC:13413413451 Kitap ID:1364976
+
+++ Kitap Başarılı Şekilde Alındı- Zamanında İade Edildi - Tarih:1/29/2022 12:21:02 AM Üye TC:13413413451 Kitap ID:1364976
+
+Program Kapatıldı Tarih: 1/29/2022 12:22:00 AM
+-----------------------------------------------------------------------------------
+
+Program Kapatıldı Tarih: 1/29/2022 12:29:27 AM
+-----------------------------------------------------------------------------------
+
+-- Kullanıcı:amir Tarih:1/29/2022 12:29:50 AM Güvenlik Kodu 1 kere yanlış girildi.
+
+-- Kullanıcı:amir Tarih:1/29/2022 12:29:58 AM Güvenlik Kodu 2 kere yanlış girildi.
+
+-- Kullanıcı: amir Sifre:asdsada ile Tarih: 1/29/2022 12:30:10 AM Hatalı deneme sayısı:1 hatalı bir giriş yaptı
+
+++ Kullanıcı: amir Tarih: 1/29/2022 12:30:22 AM başarılı bir giriş yaptı
+
+++ Kullanıcı Başarıyla Eklendi - Tarih:1/29/2022 12:32:27 AM Kullanıcı Adı:adasd Kullanıcı Soyadı:asdasd
+
++- Kullanıcı Başarıyla Silindi - Tarih:1/29/2022 12:33:02 AMKullanıcı Ad:adasd Üye TC:asdasd
+
++/ Kitap Bilgileri Başarıyla Güncellendi - Tarih:1/29/2022 12:40:53 AMKitap ID:4587965 Kitap Ad:Devlet
+
+Program Kapatıldı Tarih: 1/30/2022 6:49:08 PM
+-----------------------------------------------------------------------------------
+
+Program Kapatıldı Tarih: 1/30/2022 6:52:13 PM
+-----------------------------------------------------------------------------------
+
+Program Kapatıldı Tarih: 1/30/2022 6:55:35 PM
+-----------------------------------------------------------------------------------
+
+-- Kullanıcı:amir Tarih:1/30/2022 9:02:46 PM Güvenlik Kodu 1 kere yanlış girildi.
+
+Program Kapatıldı Tarih: 1/30/2022 9:23:07 PM
+-----------------------------------------------------------------------------------
+

@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C4107CC5-A059-4631-B7B3-33EBD4D5AF0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kütüphane_Otomasyonu</RootNamespace>
+    <AssemblyName>Kütüphane Otomasyonu</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmanetDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmanetDetay.Designer.cs">
+      <DependentUpon>EmanetDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmanetIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmanetIslemleri.designer.cs">
+      <DependentUpon>EmanetIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkında.Designer.cs">
+      <DependentUpon>Hakkında.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapDetay.designer.cs">
+      <DependentUpon>KitapDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapIslemleri.designer.cs">
+      <DependentUpon>KitapIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıIslemleri.designer.cs">
+      <DependentUpon>KullanıcıIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tbl_Emanet.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Giris.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Kitaplar.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Turler.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tbl_Uyeler.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TurDuzenleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TurDuzenleme.designer.cs">
+      <DependentUpon>TurDuzenleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeDetay.designer.cs">
+      <DependentUpon>UyeDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeIslemleri.designer.cs">
+      <DependentUpon>UyeIslemleri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmanetDetay.resx">
+      <DependentUpon>EmanetDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmanetIslemleri.resx">
+      <DependentUpon>EmanetIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkında.resx">
+      <DependentUpon>Hakkında.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapDetay.resx">
+      <DependentUpon>KitapDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapIslemleri.resx">
+      <DependentUpon>KitapIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıIslemleri.resx">
+      <DependentUpon>KullanıcıIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TurDuzenleme.resx">
+      <DependentUpon>TurDuzenleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeDetay.resx">
+      <DependentUpon>UyeDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeIslemleri.resx">
+      <DependentUpon>UyeIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\İnfo2-resized.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Library_bg_giris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-user.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\borrow-book.png" />
+    <None Include="Resources\Add book.png" />
+    <Content Include="Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Content>
+    <Content Include="Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+    <Content Include="Resources\add.png" />
+    <Content Include="Resources\Add_book.png" />
+    <Content Include="Resources\add_book_icon.ico" />
+    <Content Include="Resources\add_user_icon.ico" />
+    <Content Include="Resources\ara.png" />
+    <Content Include="Resources\Beykent logo.jpg" />
+    <None Include="Resources\Beykent logo1.jpg" />
+    <Content Include="Resources\beykent_logo_icon.ico" />
+    <Content Include="Resources\Beykent_Universitesi_Logo_Yeni.png" />
+    <None Include="Resources\Beykent_Universitesi_Logo_Yeni1.png" />
+    <Content Include="Resources\book_info_icon.ico" />
+    <Content Include="Resources\borrow_book_icon.ico" />
+    <None Include="Resources\Help.png" />
+    <Content Include="Resources\delete.png" />
+    <Content Include="Resources\homepage_con.ico" />
+    <Content Include="Resources\manager.png" />
+    <Content Include="Resources\manager_Brv_icon.ico" />
+    <Content Include="Resources\preview.png" />
+    <Content Include="Resources\printer.png" />
+    <Content Include="Resources\refresh.png" />
+    <None Include="Resources\refresh1.png" />
+    <Content Include="Resources\update.png" />
+    <Content Include="Resources\user_information_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

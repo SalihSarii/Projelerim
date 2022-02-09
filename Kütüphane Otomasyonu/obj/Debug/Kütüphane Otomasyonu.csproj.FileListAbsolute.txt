@@ -1,0 +1,302 @@
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEkle.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Hakkında.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetAlVer.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEkle.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\SalihSarıtepe_1903022323\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.ÜyeListele.resources
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane_Otomasyonu.Hakkında.resources
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\drive-download-20211124T135408Z-001\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Hakkında.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\Salih\Downloads\IOT\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Hakkında.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu3-20211130T114007Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Hakkında.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu3-20211130T215433Z-001\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Hakkında.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Downloads\Compressed\Kütüphane Otomasyonu4\Kütüphane Otomasyonu3\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Hakkında.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\Kütüphane Otomasyonu5\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Kütüphane Otomasyonu\Kütüphane Otomasyonu6\Kütüphane Otomasyonu6\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CopyComplete
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetDetay.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetDetay.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetDetay.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CopyComplete
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\MuharremCanÖNCE_1903022030\Proje-20220125T122938Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TurDuzenleme.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KullanıcıIslemleri.resources
+C:\Users\Salih\Downloads\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TurDuzenleme.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetDetay.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KullanıcıIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TurDuzenleme.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CopyComplete
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\Proje-20220128T163156Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetDetay.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KullanıcıIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TurDuzenleme.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CopyComplete
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\CAN\Desktop\Dersler\Proje-20220126Z-001\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Anasayfa.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetDetay.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetIslemleri.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Giris.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Hakkinda.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDetay.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapIslemleri.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KullanıcıIslemleri.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.TurDuzenleme.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDetay.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeIslemleri.resources
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\Salih\Desktop\Proje\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb

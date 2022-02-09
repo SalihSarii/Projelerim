@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="KutuphaneOtomasyonuModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tbl_Emanet">
+          <Key>
+            <PropertyRef Name="Sıra" />
+          </Key>
+          <Property Name="Sıra" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Üye Adı" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Üye Soyadı" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Üye TC" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Üye Tel" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Kitap İd" Type="int" Nullable="false" />
+          <Property Name="Kitap Adı" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Yazar Adı" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Yayınevi" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Verilme Tarihi" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="İade Tarihi" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Teslim Tarihi" Type="nvarchar" MaxLength="50" />
+          <Property Name="Durum" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Ceza" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tbl_Giris">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="Kullanıcı Adı" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Şifre" Type="nvarchar" MaxLength="50" />
+          <Property Name="Ad" Type="nvarchar" MaxLength="50" />
+          <Property Name="Soyad" Type="nvarchar" MaxLength="50" />
+          <Property Name="ID" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityType Name="tbl_Kitaplar">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Kitap Adı" Type="nvarchar" MaxLength="50" />
+          <Property Name="Yazar Adı" Type="nvarchar" MaxLength="50" />
+          <Property Name="Kitap Türü" Type="nvarchar" MaxLength="50" />
+          <Property Name="Sayfa Sayısı" Type="smallint" />
+          <Property Name="Yayınevi" Type="nvarchar" MaxLength="50" />
+          <Property Name="Miktar" Type="smallint" />
+        </EntityType>
+        <EntityType Name="tbl_Turler">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Tür Adı" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tbl_Uyeler">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="Ad" Type="nvarchar" MaxLength="50" />
+          <Property Name="Soyad" Type="nvarchar" MaxLength="50" />
+          <Property Name="TC" Type="char" MaxLength="11" Nullable="false" />
+          <Property Name="Tel" Type="nvarchar" MaxLength="50" />
+          <Property Name="Cinsiyet" Type="nvarchar" MaxLength="50" />
+          <Property Name="ID" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="KutuphaneOtomasyonuModelStoreContainer">
+          <EntitySet Name="tbl_Emanet" EntityType="Self.tbl_Emanet" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_Giris" EntityType="Self.tbl_Giris" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_Kitaplar" EntityType="Self.tbl_Kitaplar" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_Turler" EntityType="Self.tbl_Turler" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_Uyeler" EntityType="Self.tbl_Uyeler" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="KutuphaneOtomasyonuModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="KutuphaneOtomasyonuEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tbl_Emanet" EntityType="KutuphaneOtomasyonuModel.tbl_Emanet" />
+          <EntitySet Name="tbl_Turler" EntityType="KutuphaneOtomasyonuModel.tbl_Turler" />
+          <EntitySet Name="tbl_Uyeler" EntityType="KutuphaneOtomasyonuModel.tbl_Uyeler" />
+          <EntitySet Name="tbl_Kitaplar" EntityType="KutuphaneOtomasyonuModel.tbl_Kitaplar" />
+          <EntitySet Name="tbl_Giris" EntityType="KutuphaneOtomasyonuModel.tbl_Giris" />
+        </EntityContainer>
+        <EntityType Name="tbl_Emanet">
+          <Key>
+            <PropertyRef Name="Sıra" />
+          </Key>
+          <Property Name="Sıra" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Üye_Adı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Üye_Soyadı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Üye_TC" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Üye_Tel" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Kitap_İd" Type="Int32" Nullable="false" />
+          <Property Name="Kitap_Adı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Yazar_Adı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Yayınevi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Verilme_Tarihi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="İade_Tarihi" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Teslim_Tarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Durum" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Ceza" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="tbl_Turler">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Tür_Adı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="tbl_Uyeler">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TC" Type="String" Nullable="false" MaxLength="11" FixedLength="true" Unicode="false" />
+          <Property Name="Tel" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Cinsiyet" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ID" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+        <EntityType Name="tbl_Kitaplar">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Kitap_Adı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Yazar_Adı" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Kitap_Türü" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Sayfa_Sayısı" Type="Int16" />
+          <Property Name="Yayınevi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Miktar" Type="Int16" />
+        </EntityType>
+        <EntityType Name="tbl_Giris">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="Kullanıcı_Adı" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Şifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="ID" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="KutuphaneOtomasyonuModelStoreContainer" CdmEntityContainer="KutuphaneOtomasyonuEntities">
+          <EntitySetMapping Name="tbl_Emanet">
+            <EntityTypeMapping TypeName="KutuphaneOtomasyonuModel.tbl_Emanet">
+              <MappingFragment StoreEntitySet="tbl_Emanet">
+                <ScalarProperty Name="Ceza" ColumnName="Ceza" />
+                <ScalarProperty Name="Durum" ColumnName="Durum" />
+                <ScalarProperty Name="Teslim_Tarihi" ColumnName="Teslim Tarihi" />
+                <ScalarProperty Name="İade_Tarihi" ColumnName="İade Tarihi" />
+                <ScalarProperty Name="Verilme_Tarihi" ColumnName="Verilme Tarihi" />
+                <ScalarProperty Name="Yayınevi" ColumnName="Yayınevi" />
+                <ScalarProperty Name="Yazar_Adı" ColumnName="Yazar Adı" />
+                <ScalarProperty Name="Kitap_Adı" ColumnName="Kitap Adı" />
+                <ScalarProperty Name="Kitap_İd" ColumnName="Kitap İd" />
+                <ScalarProperty Name="Üye_Tel" ColumnName="Üye Tel" />
+                <ScalarProperty Name="Üye_TC" ColumnName="Üye TC" />
+                <ScalarProperty Name="Üye_Soyadı" ColumnName="Üye Soyadı" />
+                <ScalarProperty Name="Üye_Adı" ColumnName="Üye Adı" />
+                <ScalarProperty Name="Sıra" ColumnName="Sıra" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_Turler">
+            <EntityTypeMapping TypeName="KutuphaneOtomasyonuModel.tbl_Turler">
+              <MappingFragment StoreEntitySet="tbl_Turler">
+                <ScalarProperty Name="Tür_Adı" ColumnName="Tür Adı" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_Uyeler">
+            <EntityTypeMapping TypeName="KutuphaneOtomasyonuModel.tbl_Uyeler">
+              <MappingFragment StoreEntitySet="tbl_Uyeler">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+                <ScalarProperty Name="Tel" ColumnName="Tel" />
+                <ScalarProperty Name="TC" ColumnName="TC" />
+                <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+                <ScalarProperty Name="Ad" ColumnName="Ad" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_Kitaplar">
+            <EntityTypeMapping TypeName="KutuphaneOtomasyonuModel.tbl_Kitaplar">
+              <MappingFragment StoreEntitySet="tbl_Kitaplar">
+                <ScalarProperty Name="Miktar" ColumnName="Miktar" />
+                <ScalarProperty Name="Yayınevi" ColumnName="Yayınevi" />
+                <ScalarProperty Name="Sayfa_Sayısı" ColumnName="Sayfa Sayısı" />
+                <ScalarProperty Name="Kitap_Türü" ColumnName="Kitap Türü" />
+                <ScalarProperty Name="Yazar_Adı" ColumnName="Yazar Adı" />
+                <ScalarProperty Name="Kitap_Adı" ColumnName="Kitap Adı" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_Giris">
+            <EntityTypeMapping TypeName="KutuphaneOtomasyonuModel.tbl_Giris">
+              <MappingFragment StoreEntitySet="tbl_Giris">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+                <ScalarProperty Name="Ad" ColumnName="Ad" />
+                <ScalarProperty Name="Şifre" ColumnName="Şifre" />
+                <ScalarProperty Name="Kullanıcı_Adı" ColumnName="Kullanıcı Adı" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram DiagramId="4e3ffe0cbc294fe89caa8a06ed88b648" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="KutuphaneOtomasyonuModel.tbl_Emanet" Width="1.5" PointX="8.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KutuphaneOtomasyonuModel.tbl_Turler" Width="1.5" PointX="4.375" PointY="0.75" />
+        <EntityTypeShape EntityType="KutuphaneOtomasyonuModel.tbl_Uyeler" Width="1.5" PointX="6.375" PointY="0.75" />
+        <EntityTypeShape EntityType="KutuphaneOtomasyonuModel.tbl_Kitaplar" Width="1.5" PointX="2.375" PointY="0.75" />
+        <EntityTypeShape EntityType="KutuphaneOtomasyonuModel.tbl_Giris" Width="1.5" PointX="0.5" PointY="0.75" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>
